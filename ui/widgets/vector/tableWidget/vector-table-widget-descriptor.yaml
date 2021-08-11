@@ -1,0 +1,6 @@
+code: vector-table-widget
+titles:
+  en: Vector Table Widget
+  it: Vector Table Widget
+group: free
+customUiPath: vector-table-widget.ftl

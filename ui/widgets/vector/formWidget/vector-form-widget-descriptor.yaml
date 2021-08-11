@@ -1,0 +1,6 @@
+code: vector-form-widget
+titles:
+  en: Vector Form Widget
+  it: Vector Form Widget
+group: free
+customUiPath: vector-form-widget.ftl

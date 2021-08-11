@@ -1,0 +1,6 @@
+code: vector-details-widget
+titles:
+  en: Vector Details Widget
+  it: Vector Details Widget
+group: free
+customUiPath: vector-details-widget.ftl

@@ -1,0 +1,13 @@
+code: myapp2-bundle
+description: This is the myapp2 bundle
+
+components:
+  plugins:
+    - plugins/myapp2-plugin.yaml
+
+  widgets:
+    - ui/widgets/vector/tableWidget/vector-table-widget-descriptor.yaml
+    - ui/widgets/vector/detailsWidget/vector-details-widget-descriptor.yaml
+    - ui/widgets/vector/formWidget/vector-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
